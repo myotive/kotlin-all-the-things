@@ -1,7 +1,12 @@
 ![All The Things](https://raw.githubusercontent.com/myotive/kotlin-all-the-things/master/images/allthethings.png)
 
 # Kotlin All The Things
-References for my talk on the Kotlin ecosystem
+References for my talk on the Kotlin ecosystem.
+
+### Abstract
+Kotlin is taking the development community by storm. Since Google announced they are officially partnering with JetBrains to support the language for Android development, mobile developers are flocking en masse. 
+
+But what about everyone else? Good news - Kotlin is not just for mobile. In this talk, we will take a look at the overall landscape. For Java developers, we will look at Kotlin on the server. For Front End developers, we will check out Kotlin for JavaScript. For everyone else, we'll poke around Kotlin Native, which can compile Kotlin for platforms that don't have a virtual machine such as IOS. 
 
 ### Reference
 
