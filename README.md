@@ -1,3 +1,5 @@
+![All The Things](https://raw.githubusercontent.com/myotive/kotlin-all-the-things/master/images/allthethings.png)
+
 # Kotlin All The Things
 References for my talk on the Kotlin ecosystem
 
